@@ -1,4 +1,4 @@
-package com.github.nurhamidqq.jetpacknewsapp
+package com.github.nurhamidqq.jetpack_newsapp
 
 import org.junit.Test
 

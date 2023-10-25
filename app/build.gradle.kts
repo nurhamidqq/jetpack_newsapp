@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.github.nurhamidqq.jetpacknewsapp"
+    namespace = "com.github.nurhamidqq.jetpack_newsapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.github.nurhamidqq.jetpacknewsapp"
+        applicationId = "com.github.nurhamidqq.jetpack_newsapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

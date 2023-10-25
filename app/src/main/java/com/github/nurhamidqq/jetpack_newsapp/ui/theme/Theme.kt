@@ -1,4 +1,4 @@
-package com.github.nurhamidqq.jetpacknewsapp.ui.theme
+package com.github.nurhamidqq.jetpack_newsapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
